@@ -1,0 +1,6 @@
+Card Serial: 09
+Card Name: Submit Special Requirements
+Actor: Passenger
+
+Description:
+As a Passenger, I want to submit special requirements, So that the operator knows my needs.

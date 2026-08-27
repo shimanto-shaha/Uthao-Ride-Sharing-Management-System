@@ -1,0 +1,6 @@
+Card Serial: 11
+Card Name: Logout
+Actor: Passenger
+
+Description:
+As a Passenger, I want to log out of my account, So that my account stays secure.

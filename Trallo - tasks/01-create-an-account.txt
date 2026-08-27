@@ -1,0 +1,6 @@
+Card Serial: 01
+Card Name: Create an account
+Actor: Passenger
+
+Description:
+As a Passenger, I want to create an account, So that I can use the helicopter ride-sharing service securely.

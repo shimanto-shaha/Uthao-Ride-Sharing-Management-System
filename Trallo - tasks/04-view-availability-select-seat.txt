@@ -1,0 +1,7 @@
+Card Serial: 04
+Card Name: View Availability & Select Seat
+Actor: Passenger
+
+Description:
+As a Passenger, I want to view available flights and select my preferred seat,
+So that I can choose the most suitable ride.

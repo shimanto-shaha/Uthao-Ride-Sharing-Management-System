@@ -1,0 +1,6 @@
+Card Serial: 05
+Card Name: Track Flight Live
+Actor: Passenger
+
+Description:
+As a Passenger, I want to track my flight live, So that I can know the helicopter status.

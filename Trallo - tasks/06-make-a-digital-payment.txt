@@ -1,0 +1,6 @@
+Card Serial: 06
+Card Name: Make a Digital Payment
+Actor: Passenger
+
+Description:
+As a Passenger, I want to make a digital payment, So that I can confirm my ride.

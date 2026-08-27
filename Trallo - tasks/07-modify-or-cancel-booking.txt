@@ -1,0 +1,6 @@
+Card Serial: 07
+Card Name: Modify or Cancel Booking
+Actor: Passenger
+
+Description:
+As a Passenger, I want to modify or cancel my booking, So that I can manage changes to my travel plans.

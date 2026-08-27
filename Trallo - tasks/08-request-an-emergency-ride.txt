@@ -1,0 +1,6 @@
+Card Serial: 08
+Card Name: Request an Emergency Ride
+Actor: Passenger
+
+Description:
+As a Passenger, I want to request an emergency ride, So that I can get urgent transportation.
